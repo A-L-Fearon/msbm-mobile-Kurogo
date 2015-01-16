@@ -24,7 +24,7 @@ DEFAULT-COMPLIANT-SPIDER = "info"
 
 [strings]
 SITE_NAME = "MSBM"
-ORGANIZATION_NAME = "UWI Mona"
+ORGANIZATION_NAME = "UWI Mona MSBM"
 COPYRIGHT_LINK = "http://www.modolabs.com"
 COPYRIGHT_NOTICE = "&#169; 2012 Modo Labs, Inc."
 FEEDBACK_EMAIL = "kurogo@modolabs.com"

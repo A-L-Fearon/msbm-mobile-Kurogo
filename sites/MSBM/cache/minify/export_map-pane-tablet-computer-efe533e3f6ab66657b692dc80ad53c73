@@ -12,8 +12,8 @@ var NO_RESULTS_FOUND = "No results found";";i:1;s:1105:"
  */
 
 mapLoader = new KGOGoogleMapLoader({
-    lat: 42.391484,
-    lon: -72.528863,
+    lat: 18.005303,
+    lon: -76.746568,
     zoom: 14,
     
     mapElement: "mapimage-61a6e3a7ce09f23e5603d4d9519452ee",
@@ -26,15 +26,15 @@ mapLoader.loadMap();
 
 mapLoader.addPlacemark(
     "http://localhost/map/index?group=campus&_b=%5B%7B%22t%22%3A%22Map%22%2C%22lt%22%3A%22Map%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D",
-    new google.maps.Marker({position: new google.maps.LatLng(42.391484,-72.528863),
+    new google.maps.Marker({position: new google.maps.LatLng(18.005303,-76.746568),
 map: map,
 title: "Main Campus"}),
     {
         title: "Main Campus",
         subtitle: null,
         url: "http://localhost/map/index?group=campus&_b=%5B%7B%22t%22%3A%22Map%22%2C%22lt%22%3A%22Map%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D",
-        lat: 42.391484,
-        lon: -72.528863
+        lat: 18.005303,
+        lon: -76.746568
     }
 );
 

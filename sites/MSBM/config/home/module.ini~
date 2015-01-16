@@ -3,7 +3,7 @@ title = "Home"
 display_type = "springboard"
 SHOW_LOGIN = 0
 ADD_TO_HOME = 0
-SHOW_FEDERATED_SEARCH = 1
+SHOW_FEDERATED_SEARCH = 0
 ALLOW_CUSTOMIZE = 1
 
 [notice]
