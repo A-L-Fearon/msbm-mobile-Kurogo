@@ -1,0 +1,15 @@
+<strong>LDAP PHP extension is not installed</strong><br><br><strong>Fatal error</strong>:  Uncaught exception 'KurogoException' with message 'LDAP PHP extension is not installed' in /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/People/LDAPPeopleRetriever.php:19
+Stack trace:
+#0 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/Kurogo.php(369): include()
+#1 Unknown(Unknown): siteLibAutoloader(string)
+#2 Unknown(Unknown): spl_autoload_call(string)
+#3 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/DataRetriever.php(299): class_exists(string)
+#4 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/DataModel.php(120): factory(string, array)
+#5 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/DataModel.php(159): init(array)
+#6 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/app/modules/people/PeopleWebModule.php(207): factory(string, array)
+#7 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/app/modules/people/PeopleWebModule.php(313): getFeed(string)
+#8 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/WebModule.php(1784): initializeForPage()
+#9 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/WebModule.php(1990): setPageVariables()
+#10 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/www/index.php(323): displayPage()
+#11 {main}
+  thrown in <strong>/home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/People/LDAPPeopleRetriever.php</strong> on line <strong>19</strong>

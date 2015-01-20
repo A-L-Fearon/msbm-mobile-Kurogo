@@ -209,3 +209,222 @@
 [Mon 12 29 23:32:14 2014]	data:Warning	FileLoader::load@74	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	FileLoader failed to load 'http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg'
 [Mon 12 29 23:32:14 2014]	security:Warning	Watchdog->_safePath@144	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	WARNING! Blocking attempt from 127.0.0.1 to access unsafe path '/home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/www'
 [Mon 12 29 23:32:14 2014]	kurogo:Warning	_404@113	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	URL /fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg not found
+[Sun 01 04 13:29:43 2015]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Mon 01 05 12:20:09 2015]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Mon 01 05 12:20:14 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	Forbidden for http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg
+[Mon 01 05 12:20:14 2015]	data:Warning	FileLoader::load@74	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	FileLoader failed to load 'http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg'
+[Mon 01 05 12:20:14 2015]	security:Warning	Watchdog->_safePath@144	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	WARNING! Blocking attempt from 127.0.0.1 to access unsafe path '/home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/www'
+[Mon 01 05 12:20:14 2015]	kurogo:Warning	_404@113	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	URL /fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg not found
+[Mon 01 05 12:21:15 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	Error Retrieving Data for http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg
+[Mon 01 05 12:21:15 2015]	data:Warning	FileLoader::load@74	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	FileLoader failed to load 'http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg'
+[Mon 01 05 12:21:15 2015]	security:Warning	Watchdog->_safePath@144	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	WARNING! Blocking attempt from 127.0.0.1 to access unsafe path '/home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/www'
+[Mon 01 05 12:21:15 2015]	kurogo:Warning	_404@113	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	URL /fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg not found
+[Mon 01 05 12:25:36 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	Forbidden for http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg
+[Mon 01 05 12:25:36 2015]	data:Warning	FileLoader::load@74	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	FileLoader failed to load 'http://media.news.harvard.edu/gazette/wp-content/uploads/2014/10/101414_CivilDGF_005_140.jpg'
+[Mon 01 05 12:25:36 2015]	security:Warning	Watchdog->_safePath@144	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	WARNING! Blocking attempt from 127.0.0.1 to access unsafe path '/home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/www'
+[Mon 01 05 12:25:36 2015]	kurogo:Warning	_404@113	/fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg	URL /fileloader/images/d726efb8ecb465dc79428512941b49a9.jpg not found
+[Mon 01 05 12:40:21 2015]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Mon 01 05 12:51:53 2015]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Mon 01 05 12:57:24 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 12:57:37 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 13:17:34 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 13:59:24 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 13:59:32 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 13:59:52 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:04:37 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:07:04 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:07:32 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:07:42 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:08:18 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:09:12 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:09:18 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/searchResult?id=video&filter=Maurice&ajax=1	Error Retrieving Data for https://gdata.youtube.com/feeds/mobile/videos?alt=jsonc&format=6&v=2&orderby=relevance&author=tededucation&q=Maurice&max-results=3
+[Mon 01 05 14:10:05 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Mon 01 05 14:29:35 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Tue 01 06 14:09:00 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Tue 01 06 14:09:52 2015]	db:Warning	db->errorHandler@160	/people/search?filter=stat&_b=%5B%7B%22t%22%3A%22Directory%22%2C%22lt%22%3A%22Directory%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D	mysql error with SELECT * FROM users WHERE (firstname LIKE ? OR lastname LIKE ? OR email LIKE ?) ORDER BY lastname,firstname: Table 'mmbs.users' doesn't exist
+[Tue 01 06 14:09:52 2015]	exception:Alert	db->errorHandler@146	/people/search?filter=stat&_b=%5B%7B%22t%22%3A%22Directory%22%2C%22lt%22%3A%22Directory%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D	A KurogoDataException has occured: Error with SELECT * FROM users WHERE (firstname LIKE ? OR lastname LIKE ? OR email LIKE ?) ORDER BY lastname,firstname: Table 'mmbs.users' doesn't exist
+[Tue 01 06 14:21:49 2015]	db:Warning	db->errorHandler@160	/people/search?filter=fdd&_b=%5B%7B%22t%22%3A%22Directory%22%2C%22lt%22%3A%22Directory%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D	mysql error with SELECT * FROM users WHERE (firstname LIKE ? OR lastname LIKE ? OR email LIKE ?) ORDER BY lastname,firstname: Table 'mmbs.users' doesn't exist
+[Tue 01 06 14:21:49 2015]	exception:Alert	db->errorHandler@146	/people/search?filter=fdd&_b=%5B%7B%22t%22%3A%22Directory%22%2C%22lt%22%3A%22Directory%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D	A KurogoDataException has occured: Error with SELECT * FROM users WHERE (firstname LIKE ? OR lastname LIKE ? OR email LIKE ?) ORDER BY lastname,firstname: Table 'mmbs.users' doesn't exist
+[Tue 01 06 14:32:18 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Tue 01 06 14:32:20 2015]	db:Warning	db->errorHandler@160	/directory/	mysql error with SELECT * FROM directory: Table 'msbm.directory' doesn't exist
+[Tue 01 06 14:32:20 2015]	exception:Alert	db->errorHandler@146	/directory/	A KurogoDataException has occured: Error with SELECT * FROM directory: Table 'msbm.directory' doesn't exist
+[Tue 01 06 14:33:05 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Tue 01 06 14:33:12 2015]	db:Warning	db->errorHandler@160	/people/search?filter=fgh&_b=%5B%7B%22t%22%3A%22Directory%22%2C%22lt%22%3A%22Directory%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D	mysql error with SELECT * FROM users WHERE (firstname LIKE ? OR lastname LIKE ? OR email LIKE ?) ORDER BY lastname,firstname: Table 'msbm.users' doesn't exist
+[Tue 01 06 14:33:12 2015]	exception:Alert	db->errorHandler@146	/people/search?filter=fgh&_b=%5B%7B%22t%22%3A%22Directory%22%2C%22lt%22%3A%22Directory%22%2C%22p%22%3A%22index%22%2C%22a%22%3A%22%22%7D%5D	A KurogoDataException has occured: Error with SELECT * FROM users WHERE (firstname LIKE ? OR lastname LIKE ? OR email LIKE ?) ORDER BY lastname,firstname: Table 'msbm.users' doesn't exist
+[Tue 01 06 16:01:30 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Tue 01 06 16:24:07 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Tue 01 13 15:01:07 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 13:38:07 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 14:39:53 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 14:47:08 2015]	kurogo:Warning	_404@113	/device/compliant-iphone-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-iphone-unknown/modules/video/images/video-placeholder.png not found
+[Wed 01 14 14:55:59 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 14:56:33 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 14:58:00 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 15:01:32 2015]	kurogo:Warning	_404@113	/device/compliant-iphone-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-iphone-unknown/modules/video/images/video-placeholder.png not found
+[Wed 01 14 15:02:05 2015]	kurogo:Warning	_404@113	/device/compliant-iphone-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-iphone-unknown/modules/video/images/video-placeholder.png not found
+[Wed 01 14 15:02:12 2015]	kurogo:Warning	_404@113	/device/compliant-iphone-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-iphone-unknown/modules/video/images/video-placeholder.png not found
+[Wed 01 14 15:03:25 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:03:25 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:05:57 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/index?group=campus&listview=1&_b=%5B%5D	Warning: unable to find feed data for feed 
+[Wed 01 14 15:09:35 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:09:35 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:09:48 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/index?group=campus&listview=1&_b=%5B%5D	Warning: unable to find feed data for feed 
+[Wed 01 14 15:16:13 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:16:13 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:18:15 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:18:15 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:18:17 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 15:21:51 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 15:21:52 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:21:52 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:21:54 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/index?group=campus&listview=1&_b=%5B%5D	Warning: unable to find feed data for feed 
+[Wed 01 14 15:27:34 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 15:28:00 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:28:00 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 15:31:26 2015]	kurogo:Warning	_404@113	/device/compliant-iphone-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-iphone-unknown/modules/video/images/video-placeholder.png not found
+[Wed 01 14 15:48:04 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 18:11:17 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 18:11:17 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 18:11:25 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/index?group=campus&listview=1&_b=%5B%5D	Warning: unable to find feed data for feed 
+[Wed 01 14 18:12:04 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 18:12:04 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 19:23:03 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 19:28:40 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Wed 01 14 19:31:30 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Bad Request for https://graph.facebook.com/oauth/access_token?client_id=&client_secret=&grant_type=client_credentials
+[Wed 01 14 19:31:30 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Wed 01 14 19:32:01 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/index	Bad Request for https://graph.facebook.com/oauth/access_token?client_id=&client_secret=&grant_type=client_credentials
+[Wed 01 14 19:32:01 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/index	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Wed 01 14 19:32:06 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/index	Bad Request for https://graph.facebook.com/oauth/access_token?client_id=&client_secret=&grant_type=client_credentials
+[Wed 01 14 19:32:06 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/index	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Wed 01 14 19:42:17 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Not Found for https://graph.facebook.com/antonio.fearon/posts?access_token=1043639048995405%7CBakfoPLtss3dw8u-TmX34gREQ6M
+[Wed 01 14 19:42:17 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Not Found for https://graph.facebook.com/antonio.fearon/posts?access_token=1043639048995405%7CBakfoPLtss3dw8u-TmX34gREQ6M
+[Wed 01 14 19:45:53 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Not Found for https://graph.facebook.com/Antonio.Fearon/posts?access_token=1043639048995405%7CBakfoPLtss3dw8u-TmX34gREQ6M
+[Wed 01 14 19:45:53 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Not Found for https://graph.facebook.com/Antonio.Fearon/posts?access_token=1043639048995405%7CBakfoPLtss3dw8u-TmX34gREQ6M
+[Wed 01 14 20:20:49 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Worcester+Dining+Hall&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Wed 01 14 20:20:49 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Worcester+Dining+Hall&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Wed 01 14 21:49:51 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 21:49:51 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 21:50:01 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/index?group=campus&listview=1&_b=%5B%5D	Warning: unable to find feed data for feed 
+[Wed 01 14 21:50:33 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 21:50:34 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Wed 01 14 21:50:55 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/index?group=campus&listview=1&_b=%5B%5D	Warning: unable to find feed data for feed 
+[Wed 01 14 23:30:16 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:30:16 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Wed 01 14 23:30:16 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Wed 01 14 23:30:27 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:30:27 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Wed 01 14 23:30:27 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Wed 01 14 23:31:49 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:31:49 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Wed 01 14 23:31:49 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Wed 01 14 23:31:56 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:31:56 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Wed 01 14 23:31:56 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Wed 01 14 23:32:39 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:32:39 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Wed 01 14 23:32:39 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Wed 01 14 23:32:49 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:32:49 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Wed 01 14 23:32:49 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Wed 01 14 23:33:50 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Not Found for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/public/basic.ics
+[Wed 01 14 23:33:50 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Wed 01 14 23:33:50 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 14:24:38 2015]	kurogo:Warning	_404@113	/device/compliant-android-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-android-unknown/modules/video/images/video-placeholder.png not found
+[Thu 01 15 14:29:11 2015]	kurogo:Warning	_404@113	/device/compliant-android-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-android-unknown/modules/video/images/video-placeholder.png not found
+[Thu 01 15 14:29:19 2015]	kurogo:Warning	_404@113	/device/compliant-android-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-android-unknown/modules/video/images/video-placeholder.png not found
+[Thu 01 15 14:29:27 2015]	kurogo:Warning	_404@113	/device/compliant-android-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-android-unknown/modules/video/images/video-placeholder.png not found
+[Thu 01 15 14:31:02 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Mona+Campus&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Thu 01 15 14:31:02 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Mona+Campus&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Thu 01 15 14:31:02 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Mona+Campus&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Thu 01 15 14:31:02 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Mona+Campus&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Thu 01 15 14:31:02 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Mona+Campus&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Thu 01 15 14:31:02 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/search?filter=Mona+Campus&external=1&_b=%5B%5D	Warning: unable to find feed data for feed 127bdc8f09
+[Thu 01 15 14:43:11 2015]	kurogo:Warning	_404@113	/device/compliant-android-unknown/modules/video/images/video-placeholder.png	URL /device/compliant-android-unknown/modules/video/images/video-placeholder.png not found
+[Thu 01 15 14:56:59 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Thu 01 15 14:56:59 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Thu 01 15 16:15:21 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=news&ajax=1	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:15:21 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:15:21 2015]	home:Warning	FacebookDataRetriever->getPosts@52	/home/pane?id=social&ajax=1	Unable to retrieve facebook access token
+[Thu 01 15 16:15:21 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=video&ajax=1	Error Retrieving Data for https://gdata.youtube.com/feeds/mobile/videos?alt=jsonc&format=6&v=2&orderby=published&author=MSBMUWIMona&max-results=5&start-index=1
+[Thu 01 15 16:15:21 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:15:21 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Thu 01 15 16:15:21 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:15:26 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/news/	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:16:10 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/photos/	Error Retrieving Data for http://api.flickr.com/services/feeds/photos_public.gne?id=51554137%40N00&format=php_serial
+[Thu 01 15 16:16:10 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/photos/	Error Retrieving Data for http://api.flickr.com/services/feeds/photos_public.gne?id=44124385307%40N01&format=php_serial
+[Thu 01 15 16:16:36 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:16:36 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:16:39 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:16:39 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:16:53 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/news/	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:17:07 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:17:07 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:17:17 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/photos/	Error Retrieving Data for http://api.flickr.com/services/feeds/photos_public.gne?id=51554137%40N00&format=php_serial
+[Thu 01 15 16:17:17 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/photos/	Error Retrieving Data for http://api.flickr.com/services/feeds/photos_public.gne?id=44124385307%40N01&format=php_serial
+[Thu 01 15 16:17:25 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Thu 01 15 16:17:25 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Thu 01 15 16:17:33 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:17:33 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:17:42 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/news/	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:22:17 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Thu 01 15 16:22:17 2015]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Thu 01 15 16:22:47 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:22:47 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:23:26 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:23:26 2015]	home:Warning	FacebookDataRetriever->getPosts@52	/home/pane?id=social&ajax=1	Unable to retrieve facebook access token
+[Thu 01 15 16:23:26 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:23:26 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Thu 01 15 16:23:26 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:23:26 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=video&ajax=1	Error Retrieving Data for https://gdata.youtube.com/feeds/mobile/videos?alt=jsonc&format=6&v=2&orderby=published&author=MSBMUWIMona&max-results=5&start-index=1
+[Thu 01 15 16:23:26 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=news&ajax=1	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:27:28 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/news/	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:28:05 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/news/	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:28:34 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=video&ajax=1	Error Retrieving Data for https://gdata.youtube.com/feeds/mobile/videos?alt=jsonc&format=6&v=2&orderby=published&author=MSBMUWIMona&max-results=5&start-index=1
+[Thu 01 15 16:28:34 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:28:34 2015]	home:Warning	FacebookDataRetriever->getPosts@52	/home/pane?id=social&ajax=1	Unable to retrieve facebook access token
+[Thu 01 15 16:28:34 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:28:34 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Thu 01 15 16:28:34 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:28:34 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=news&ajax=1	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:28:43 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:28:43 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:28:49 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/year?type=static&calendar=holidays	Error Retrieving Data for http://www.google.com/calendar/ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics
+[Thu 01 15 16:28:49 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/year?type=static&calendar=holidays	Found an invalid ICS line: 
+[Thu 01 15 16:28:49 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/year?type=static&calendar=holidays	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:28:51 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:28:51 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:29:01 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:29:01 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Thu 01 15 16:29:01 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:29:04 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:29:04 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Thu 01 15 16:29:04 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:29:05 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:29:05 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Thu 01 15 16:29:05 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:29:07 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:29:07 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Thu 01 15 16:29:07 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:29:08 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/news/	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 16:29:14 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:29:14 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Thu 01 15 16:29:14 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 16:29:41 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/social/	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 16:29:41 2015]	exception:Alert	FacebookDataRetriever->requiresAccessToken@81	/social/	A KurogoDataException has occured: Unable to retrieve facebook access token
+[Thu 01 15 16:29:45 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/calendar/day?type=static&calendar=events	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 16:29:45 2015]	data:Warning	ICSDataParser->contentline@73	/calendar/day?type=static&calendar=events	Found an invalid ICS line: 
+[Thu 01 15 16:29:45 2015]	exception:Alert	ICSDataParser->parseData@201	/calendar/day?type=static&calendar=events	A ICalendarException has occured: Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 18:12:43 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=news&ajax=1	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 18:12:43 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=video&ajax=1	Error Retrieving Data for https://gdata.youtube.com/feeds/mobile/videos?alt=jsonc&format=6&v=2&orderby=published&author=MSBMUWIMona&max-results=5&start-index=1
+[Thu 01 15 18:12:43 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 18:12:43 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Thu 01 15 18:12:43 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 18:12:43 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 18:12:43 2015]	home:Warning	FacebookDataRetriever->getPosts@52	/home/pane?id=social&ajax=1	Unable to retrieve facebook access token
+[Thu 01 15 18:14:59 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=calendar&ajax=1	Error Retrieving Data for https://www.google.com/calendar/ical/antonio.l.fearon%40gmail.com/private-47b9a564ccb35a97e34dadf08b1f5620/basic.ics
+[Thu 01 15 18:14:59 2015]	data:Warning	ICSDataParser->contentline@73	/home/pane?id=calendar&ajax=1	Found an invalid ICS line: 
+[Thu 01 15 18:14:59 2015]	home:Warning	DataParser->parseResponse@51	/home/pane?id=calendar&ajax=1	Something other than BEGIN at the start of the calendar: 
+[Thu 01 15 18:14:59 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=news&ajax=1	Error Retrieving Data for http://news.harvard.edu/gazette/feed/
+[Thu 01 15 18:14:59 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=video&ajax=1	Error Retrieving Data for https://gdata.youtube.com/feeds/mobile/videos?alt=jsonc&format=6&v=2&orderby=published&author=MSBMUWIMona&max-results=5&start-index=1
+[Thu 01 15 18:14:59 2015]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Error Retrieving Data for https://graph.facebook.com/oauth/access_token?client_id=1043639048995405&client_secret=e925a9726989f40abde29c0365a1cf5a&grant_type=client_credentials
+[Thu 01 15 18:14:59 2015]	home:Warning	FacebookDataRetriever->getPosts@52	/home/pane?id=social&ajax=1	Unable to retrieve facebook access token
