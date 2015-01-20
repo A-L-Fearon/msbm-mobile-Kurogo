@@ -55,6 +55,5 @@ Thumbs.db
 site/*/data/db.sqlite
 site/*/cache/*
 site/*/logs/*
-*-local.ini
 nbrproject
 nbproject/*
