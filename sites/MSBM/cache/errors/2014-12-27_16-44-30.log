@@ -1,9 +1,0 @@
-<strong>Error connecting to database</strong><br><br><strong>Fatal error</strong>:  Uncaught exception 'KurogoDataServerException' with message 'Error connecting to database' in /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/db.php:71
-Stack trace:
-#0 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/db.php(52): init(array)
-#1 /home/fearon/kurogo-mw-1.8.3/sites/MMBS/app/modules/directory/DirectoryWebModule.php(9): __construct()
-#2 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/WebModule.php(1784): initializeForPage()
-#3 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/WebModule.php(1990): setPageVariables()
-#4 /home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/www/index.php(323): displayPage()
-#5 {main}
-  thrown in <strong>/home/fearon/kurogo-mw-1.8.3/Kurogo-Mobile-Web/lib/db.php</strong> on line <strong>71</strong>
